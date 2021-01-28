@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Canal Fox Channel (Argentina)">
+    <display-name lang="es">Cine TV: Fox Channel Full HD (CO)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <programme start="20210128001800 -0600" stop="20210128004400 -0600" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210128004400 -0600" stop="20210128010700 -0600" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210128010700 -0600" stop="20210128013100 -0600" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210128013100 -0600" stop="20210128020000 -0600" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210128020000 -0600" stop="20210128044200 -0600" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Maze Runner: La Cura Mortal</title>
+  </programme>
+  <programme start="20210128044200 -0600" stop="20210128051000 -0600" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210128051000 -0600" stop="20210128054000 -0600" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210128054000 -0600" stop="20210128074100 -0600" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Los 33</title>
+  </programme>
+  <programme start="20210128074100 -0600" stop="20210128090800 -0600" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">El código del miedo</title>
+  </programme>
+  <programme start="20210128090800 -0600" stop="20210128103800 -0600" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">La Torre Oscura</title>
+  </programme>
+  <programme start="20210128103800 -0600" stop="20210128110000 -0600" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Bless This Mess</title>
+  </programme>
+  <programme start="20210128110000 -0600" stop="20210128113000 -0600" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210128113000 -0600" stop="20210128120000 -0600" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210128120000 -0600" stop="20210128123000 -0600" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210128123000 -0600" stop="20210128130000 -0600" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210128130000 -0600" stop="20210128133500 -0600" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210128133500 -0600" stop="20210128133700 -0600" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210128133700 -0600" stop="20210128151900 -0600" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Cómo Entrenar a tu Dragón</title>
+  </programme>
+  <programme start="20210128151900 -0600" stop="20210128154300 -0600" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210128154300 -0600" stop="20210128160700 -0600" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210128160700 -0600" stop="20210128163100 -0600" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210128163100 -0600" stop="20210128170200 -0600" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Will &amp; Grace</title>
+  </programme>
+  <programme start="20210128170200 -0600" stop="20210128173300 -0600" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Will &amp; Grace</title>
+  </programme>
+  <programme start="20210128173300 -0600" stop="20210128193400 -0600" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Una gran esperanza</title>
+  </programme>
+  <programme start="20210128193400 -0600" stop="20210128200000 -0600" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210128200000 -0600" stop="20210128202600 -0600" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210128202600 -0600" stop="20210128220600 -0600" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Shrek para siempre</title>
+  </programme>
+  <programme start="20210128220600 -0600" stop="20210128234000 -0600" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Los Simpson La Película</title>
+  </programme>
+  <programme start="20210128234000 -0600" stop="20210129000500 -0600" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Los Simpson</title>
+  </programme>
+</tv>
